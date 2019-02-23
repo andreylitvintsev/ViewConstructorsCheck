@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MySimpleView">
+        <attr name="stubAttribute" format="integer"/>
+        <attr name="mySimpleViewStyle" format="reference"/>
+    </declare-styleable>
+</resources>
